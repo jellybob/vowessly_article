@@ -20,7 +20,7 @@ for research.
 * How it's helping in the research process.
 
 ## Future Development
-* Planned features
+* Planned features, and their purpose.
 
 ## Conclusion
 * Applicability to other researchers.
