@@ -5,24 +5,24 @@
 * Share opinions on using semi-structured data.
 
 # Structure
-## Why Vowessly?
+## Why Vowessly? (Jon & Laura)
 * Brief paragraph explaining start of Laura's PhD, and my horror at seeing her using a spreadsheet
   for research.
 * Applicability to other researchers.
 
-## A history of Vowessly
+## A history of Vowessly (Jon)
 * What we did.
 * What were the reasons.
 * Pain points.
 * Hosting (and how we're doing it for free)
 
-## Vowessly now
+## Vowessly now (Laura)
 * What Laura is doing with it.
 * How it's helping in the research process.
 
-## Future Development
+## Future Development (Jon & Laura)
 * Planned features, and their purpose.
 
-## Conclusion
+## Conclusion (Jon & Laura)
 * Applicability to other researchers.
 * How they can use the software.
