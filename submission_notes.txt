@@ -1,0 +1,4 @@
+# Images
+ 510px wide PNG @ 72dpi, with caption
+
+Sentence case headings
