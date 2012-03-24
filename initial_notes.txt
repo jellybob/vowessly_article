@@ -1,0 +1,27 @@
+# Aims of article
+
+* Share our interest in the subject with people.
+* Get poeple to consider a similarly structured approach to research.
+* Share opinions on using semi-structured data.
+
+# Structure
+## Why Vowessly?
+Brief paragraph explaining start of Laura's PhD, and my horror at seeing her using a spreadsheet
+for research.
+
+## A history of Vowessly
+* What we did.
+* What were the reasons.
+* Pain points.
+* Hosting (and how we're doing it for free)
+
+## Vowessly now
+* What Laura is doing with it.
+* How it's helping in the research process.
+
+## Future Development
+* Planned features
+
+## Conclusion
+* Applicability to other researchers.
+* How they can use the software.
