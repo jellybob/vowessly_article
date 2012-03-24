@@ -6,8 +6,9 @@
 
 # Structure
 ## Why Vowessly?
-Brief paragraph explaining start of Laura's PhD, and my horror at seeing her using a spreadsheet
-for research.
+* Brief paragraph explaining start of Laura's PhD, and my horror at seeing her using a spreadsheet
+  for research.
+* Applicability to other researchers.
 
 ## A history of Vowessly
 * What we did.
