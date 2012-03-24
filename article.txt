@@ -1,0 +1,14 @@
+# Vowessly: Cataloging research using semi-structed data
+
+## Introduction
+In the autumn of 2010, Laura Wood was beginning research for her PhD in History at Royal Holloway, University of London. The topic of her research was vowesses: laywomen who had taken a vow of chastity, in the province of Canterbury c. 1450 to 1540.
+
+She started by using a spreadsheet to organise her research, which did enable her to make comparisons between vowesses but rapidly became unwieldy because of the variety and quantity of the information involved. The structure of the data did not lend itself well to the column based nature of a spreadsheet. Laura found herself with pages of notes which did not fit precisely into any column.
+
+Jon Wood then suggested that a less structured format such as a wiki may be more appropriate. However, we did want to find a way to retain some element of structure. Finding no existing software which fit well, Jon started to build a new piece of software named Vowessly.
+
+Vowessly combines the free text format of a wiki with the more structured properties of a database. Each page consists of a large page body with the option to add facts. These facts can be linked to other pages containing more detail. For example, a page about a vowess may contain some notes in the body, and several facts about that vowess, such as who they were married to, or their parish church. Each fact has the potential to link to another page with more detail. In this way, connections between vowesses can be found.
+
+[ Screenshot of abridged page for Margaret Croke ]
+
+We believe that this approach to cataloguing information could be widely applicable to a range of research topics.
