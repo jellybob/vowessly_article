@@ -18,7 +18,9 @@ In November 2010, Jon started to use [Ruby on Rails](http://rubyonrail.s.org) an
 
 This early prototype took only a few days to complete, and allowed us to see how the idea worked in practice, with the ability to create pages and use facts to link between them. It was deployed to [Heroku](http://heroku.com)'s free hosting service, which is adequate for most small applications. At this point Laura started to use Vowessly to record her research.
 
-Having used the application for three months, Laura was finding the data entry tiresome and error prone. Since much of the data entry was repetitive information, we added autocompletion of content types and page names. When she started to type a page name a list of possible pages would be preseneted, with the option to select one. We also added the ability to search facts attached to pages, for example finding all pages linked to the vowess Margaret Croke.
+Having used the application for three months, Laura was finding the data entry tiresome and error prone. Since much of the data entry was repetitive information, autocompletion of content types and page names was added. When she started to type a page name a list of possible pages would be preseneted, with the option to select one. At the same time the ability to search facts attached to pages was added, for example finding all pages linked to the vowess Margaret Croke.
+
+[ TODO: Search, using Solr, and then backing out. ]
 
 ## Stuff to be put somewhere
 
