@@ -10,15 +10,16 @@
   for research.
 * Applicability to other researchers.
 
-## A history of Vowessly (Jon)
+## The development of Vowessly (Jon)
 * What we did.
 * What were the reasons.
-* Pain points.
 * Hosting (and how we're doing it for free)
+* Applicability to other fields
 
 ## Vowessly now (Laura)
 * What Laura is doing with it.
 * How it's helping in the research process.
+* Pain points.
 
 ## Future Development (Jon & Laura)
 * Planned features, and their purpose.
