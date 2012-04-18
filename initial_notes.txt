@@ -10,22 +10,31 @@
   for research.
 * Applicability to other researchers.
 
-## The development of Vowessly (Jon)
+## Prototyping Vowessly (Jon)
 * What we did.
 * What were the reasons.
 * Hosting (and how we're doing it for free)
-* Applicability to other fields
 
-## Vowessly now (Laura)
+## Developing the Application
+* Stuff that got added.
+
+## Vowessly as a Research Tool (Laura)
 * What Laura is doing with it.
 * How it's helping in the research process.
 * Pain points.
+  * Will renaming.
+  * Errors in data entry.
+* Applicability to other fields
 
-## Future Development (Jon & Laura)
-* Planned features, and their purpose.
+## Future Directions (Jon & Laura)
+* Family tress
+* Mapping
+* Bibliography export
+* Back linking facts to their source page
+* File attachments
 
 ## Conclusion (Jon & Laura)
 * Applicability to other researchers.
 * How they can use the software.
 
-Testing sparkleshare
+TODO: Check terms are always quoted.
