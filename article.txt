@@ -29,6 +29,22 @@ Once the data had accumulated, difficulties arose in locating specific informati
 
 ## Vowessly as a Research Tool
 
+Vowessly has revolutionised the way in which Laura organises her research. It has replaced files and folders full of notes with an organised and searchable database. This prevents Laura from getting lost or "bogged down" in details and enables her to consider themes. Through automatic page linking, Vowessly has also highlighted connections between individuals which have provided a valuable platform for further research. Additionally, Laura is better able to share her research with her supervisor by providing him with access to Vowessly, which is password protected.
+
+However, Vowessly is very much a work in progress and not all difficulties which have arisen have yet been resolved. For example, wills are named by their record office reference numbers and, for the Perogative Court of Canterbury wills, the system of referencing has changed in recent years. Some of the will references were taken from secondary literature and as a result Vowessly is currently using a mixture of the new and old reference systems. The pages can be renamed but then any links from facts would be lost. To remedy this we intend to change the way facts reference the pages they link to within the application, so that pages can be renamed, and that change is reflected in any facts. Another problem is that Laura has made a number of errors in data entry. For example, when entering a fact for a vowess' burial location, she has sometimes called the fact type "Burial Location", sometimes "Burial", and sometimes "Buried". This can be resolved by enabling mass renaming of types, by providing a list of types in the database, and providing a means to merge them together.
+
 ## Future Directions
 
+There are a number of new features which we intend to add to Vowessly to make it a more powerful tool for research.
+
+By allowing files to be attached to a page, much as one would an email, relevant images can be kept alongside the page describing them. This will also allow the source document to be referred to, where a transcription has been added to the page. For example, where Laura has transcribed a vowess' will, it would be helpful to have a photograph of the original document attached. To make it easier to navigate the information, each page will include a list of the other pages linked to it. This will be particularly useful for pages such as those for parish churches, where it will be possible to see all the vowesses connected to that church.
+
+Laura has also been using Vowessly to keep track of her reading, with each book having its own page, with the title, author, publisher, and other information about the book stored as facts, and Laura's notes in the page body. Using this information it will be possible to export a bibliography for her thesis automatically.
+
+In the future, we would also like to add the ability to display a family tree for any person in Vowessly, making use of the links that have been created to their relatives.
+
+Additionally, we are planning to introduce a mapping feature, which would plot data on a map, making it simple to see where vowesses are clustered together and focus research there.
+
 ## Conclusion
+
+We believe that Vowessly is widely applicable to many areas of historical research. It lends itself to any research where there are many links between information, such as particular families, trades, or places. For example a person researching English monestaries could use it to record the connections between monestaries and their surrounding communities, making use of those links to find previously unobserved trends.
