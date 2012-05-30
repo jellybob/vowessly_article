@@ -5,13 +5,13 @@ In the autumn of 2010, Laura Wood was beginning research for her PhD. The topic 
 
 Vowessly combines the free text format of a wiki with the more structured properties of a database. Each page consists of a large page body with the option to add facts. These facts can be linked to other pages containing more detail. For example, a page about a vowess may contain some notes in the body, and several facts about that vowess, such as to whom they were married or their parish church. Each fact has the potential to link to another page with more detail. In this way, connections between vowesses can be found. We believe that this approach to cataloguing information could be widely applicable to a range of research topics.
 
-[ TODO: Screenshot of abridged page for Margaret Croke ]
+![A screenshot of Margaret Croke's page](screenshot.png)
+
+*Screenshot of an abridged page for vowess Margaret Croke*
 
 ## Prototyping Vowessly
 
 Once we had decided that we were going to build a new piece of software for Laura's research, we began by listing what the most important features were and then sketching out how the application would be used. [ TODO: Flesh this out ]
-
-[ TODO: Photo of an interface sketch if I can find it ]
 
 In November 2010, Jon started to use [Ruby on Rails](http://rubyonrail.s.org) and [MongoDB](http://mongodb.org) to build the application, which allowed him to create a basic prototype quickly. The first version of Vowessly allowed for pages to be created, and facts to be attached to those pages. Each page would have a title, a space for content (usually Laura's notes), and what we called a "content type". The content type allowed similar pages to be grouped together, such as "Vowesses", "Parish Churches", or "Wills". The facts attached to a page were used to include more structured data, such as "Birth location" with fields for details on that piece of information, including its source and the date if appropriate. Facts also had a content type, which allowed them to link to a page on that subject if one existed.
 
