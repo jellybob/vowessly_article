@@ -15,4 +15,8 @@ task :build do
   %x{markdown article.txt > article.html}
 end
 
+task :build_for_submission do
+  %x{zip vowessly.zip article.html *.png}
+end
+
 task :default => :build
